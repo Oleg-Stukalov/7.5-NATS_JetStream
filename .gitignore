@@ -1,0 +1,14 @@
+.env
+
+.venv/
+venv/
+rabbitmq_data/
+nui/
+
+.idea/
+.vscode/
+
+**/__pycache__/
+
+*.mo
+*.pot
